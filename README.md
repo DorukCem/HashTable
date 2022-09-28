@@ -3,6 +3,6 @@ This is a project where I have built a hashtable(dictionary) from scratch in ord
 My starting goal was to understand how searching an item in a dictionary is faster than an array.
 
 Things I have learned while making this project: 
-  What a hash funciton is and the properties of a good hash function
-  How hash collisions are handled
-  Test Driven Development
+What a hash funciton is and the properties of a good hash function
+How hash collisions are handled
+Test Driven Development
